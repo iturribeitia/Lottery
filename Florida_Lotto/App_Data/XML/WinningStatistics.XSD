@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="WinningStatistics" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="WinningStatistics">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Number" type="xs:int" />
+              <xs:element name="TotalWins" type="xs:int" />
+              <xs:element name="Winning_x0020_average" type="xs:int" minOccurs="0" />
+              <xs:element name="LastWin" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AverageDays" type="xs:int" minOccurs="0" />
+              <xs:element name="DaysWithoutWin" type="xs:int" minOccurs="0" />
+              <xs:element name="ProbableWinIn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//WinningStatistics" />
+      <xs:field xpath="Number" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

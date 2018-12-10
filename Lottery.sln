@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApplications", "WebApplications", "{228964D0-E492-45D7-93F2-E29CD445BAA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{3403FBE5-7879-4A70-97CC-306F5D317597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Florida_Lotto", "Florida_Lotto\Florida_Lotto.csproj", "{7232CC7B-7211-4E51-94F8-86B9B2883395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAI.Lottery.FloridaLotto", "MAI.Lottery.FloridaLotto\MAI.Lottery.FloridaLotto.csproj", "{3DD82438-551A-433E-BDAD-E3341B498189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7232CC7B-7211-4E51-94F8-86B9B2883395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7232CC7B-7211-4E51-94F8-86B9B2883395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7232CC7B-7211-4E51-94F8-86B9B2883395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7232CC7B-7211-4E51-94F8-86B9B2883395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD82438-551A-433E-BDAD-E3341B498189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD82438-551A-433E-BDAD-E3341B498189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD82438-551A-433E-BDAD-E3341B498189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD82438-551A-433E-BDAD-E3341B498189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7232CC7B-7211-4E51-94F8-86B9B2883395} = {228964D0-E492-45D7-93F2-E29CD445BAA3}
+		{3DD82438-551A-433E-BDAD-E3341B498189} = {3403FBE5-7879-4A70-97CC-306F5D317597}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13E10D3-E06F-42A0-9829-AFDC3F15875A}
+	EndGlobalSection
+EndGlobal

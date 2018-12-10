@@ -1,0 +1,73 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="metadata">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element id="md_03E2064E-732F-F853-3B84-2A6AA4DBA7D8" name="DepartmentName" minOccurs="0" maxOccurs="1" type="textType">
+          <xsd:annotation>
+            <xsd:documentation></xsd:documentation>
+            <xsd:appinfo>
+              <label>Department Name</label>
+              <key>Department Name</key>
+              <searchable>true</searchable>
+              <timeControl>false</timeControl>
+              <description></description>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element id="md_FB2CEA4C-66E3-230F-3A79-2A6AF2FE0B03" name="DepartmentDivision" minOccurs="0" maxOccurs="1">
+          <xsd:annotation>
+            <xsd:documentation></xsd:documentation>
+            <xsd:appinfo>
+              <label>Department Division</label>
+              <key>Department Division</key>
+              <searchable>true</searchable>
+              <timeControl>false</timeControl>
+              <description></description>
+            </xsd:appinfo>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="listType">
+              <xsd:enumeration value="Marketing"/>
+              <xsd:enumeration value="Product"/>
+              <xsd:enumeration value="Engineering"/>
+              <xsd:enumeration value="FInance"/>
+              <xsd:enumeration value="Sales"/>
+              <xsd:enumeration value="HR"/>
+              <xsd:enumeration value="Management"/>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:element>
+        <xsd:element id="md_17A95828-19A6-E542-2CE0-2A6B244514BA" name="DateEstablished" minOccurs="0" maxOccurs="1" type="dateType">
+          <xsd:annotation>
+            <xsd:documentation></xsd:documentation>
+            <xsd:appinfo>
+              <label>Date Established</label>
+              <key>Date Established</key>
+              <searchable>false</searchable>
+              <timeControl>false</timeControl>
+              <description></description>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:complexType name="textType">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string"/>
+    </xsd:simpleContent>
+  </xsd:complexType>
+  <xsd:complexType name="dateType">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:long"/>
+    </xsd:simpleContent>
+  </xsd:complexType>
+  <xsd:complexType name="objectType">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string"/>
+    </xsd:simpleContent>
+  </xsd:complexType>
+  <xsd:simpleType name="listType">
+    <xsd:restriction base="xsd:string"/>
+  </xsd:simpleType>
+</xsd:schema>

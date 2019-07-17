@@ -26,93 +26,117 @@
   </xs:schema>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-04-04T00:00:00-04:00</To>
-    <Days>28</Days>
+    <From>2018-10-27T00:00:00-04:00</From>
+    <To>2018-12-05T00:00:00-05:00</To>
+    <Days>39</Days>
   </Frequencies>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-04-18T00:00:00-04:00</To>
-    <Days>14</Days>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2018-12-15T00:00:00-05:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
-    <Days>28</Days>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2018-12-26T00:00:00-05:00</To>
+    <Days>11</Days>
   </Frequencies>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
-    <Days>56</Days>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>80</Days>
   </Frequencies>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>1</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
     <Days>42</Days>
   </Frequencies>
   <Frequencies>
     <Number>1</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-10-27T00:00:00-04:00</To>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>1</Number>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>1</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
     <Days>63</Days>
   </Frequencies>
   <Frequencies>
     <Number>2</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>70</Days>
+    <From>2018-11-07T00:00:00-05:00</From>
+    <To>2018-12-12T00:00:00-05:00</To>
+    <Days>35</Days>
   </Frequencies>
   <Frequencies>
     <Number>2</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>77</Days>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
+    <Days>45</Days>
   </Frequencies>
   <Frequencies>
     <Number>2</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>2</Number>
+    <From>2019-04-24T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
     <Days>42</Days>
   </Frequencies>
   <Frequencies>
     <Number>2</Number>
-    <From>2018-09-26T00:00:00-04:00</From>
-    <To>2018-11-07T00:00:00-05:00</To>
-    <Days>42</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>3</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
-    <Days>77</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>3</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
-    <Days>42</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>3</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
-    <Days>17</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>3</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>56</Days>
+    <From>2019-06-05T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
+    <Days>35</Days>
   </Frequencies>
   <Frequencies>
     <Number>3</Number>
@@ -127,58 +151,28 @@
     <Days>11</Days>
   </Frequencies>
   <Frequencies>
-    <Number>4</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-04-14T00:00:00-04:00</To>
-    <Days>3</Days>
+    <Number>3</Number>
+    <From>2018-11-14T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
+    <Days>45</Days>
   </Frequencies>
   <Frequencies>
-    <Number>4</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-04-18T00:00:00-04:00</To>
+    <Number>3</Number>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
+    <Days>70</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>3</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
+    <Days>98</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>3</Number>
+    <From>2019-06-15T00:00:00-04:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
     <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
-    <Days>31</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-05-26T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
-    <Days>53</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>4</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>32</Days>
   </Frequencies>
   <Frequencies>
     <Number>4</Number>
@@ -193,82 +187,118 @@
     <Days>24</Days>
   </Frequencies>
   <Frequencies>
-    <Number>5</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-03-31T00:00:00-04:00</To>
+    <Number>4</Number>
+    <From>2018-11-17T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
+    <Days>53</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>4</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>5</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-04-04T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>5</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>49</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>5</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>80</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>5</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>5</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>5</Number>
-    <From>2018-09-19T00:00:00-04:00</From>
-    <To>2018-11-28T00:00:00-05:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>6</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-03-21T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>6</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-03-28T00:00:00-04:00</To>
+    <Number>4</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>6</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>42</Days>
+    <Number>4</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
+    <Days>31</Days>
   </Frequencies>
   <Frequencies>
-    <Number>6</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
+    <Number>4</Number>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>6</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
+    <Number>4</Number>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>4</Number>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>4</Number>
+    <From>2019-04-24T00:00:00-04:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>4</Number>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>4</Number>
+    <From>2019-06-05T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
     <Days>38</Days>
   </Frequencies>
   <Frequencies>
-    <Number>6</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-10-31T00:00:00-04:00</To>
-    <Days>102</Days>
+    <Number>5</Number>
+    <From>2018-11-28T00:00:00-05:00</From>
+    <To>2018-12-05T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-01-16T00:00:00-05:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>5</Number>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>46</Days>
   </Frequencies>
   <Frequencies>
     <Number>6</Number>
@@ -277,40 +307,34 @@
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>7</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-04-11T00:00:00-04:00</To>
-    <Days>32</Days>
+    <Number>6</Number>
+    <From>2018-11-14T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
+    <Days>49</Days>
   </Frequencies>
   <Frequencies>
-    <Number>7</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>66</Days>
+    <Number>6</Number>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-01-16T00:00:00-05:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>7</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>21</Days>
+    <Number>6</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
+    <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>7</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
-    <Days>28</Days>
+    <Number>6</Number>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>7</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>7</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-10-27T00:00:00-04:00</To>
-    <Days>66</Days>
+    <Number>6</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>126</Days>
   </Frequencies>
   <Frequencies>
     <Number>7</Number>
@@ -319,106 +343,94 @@
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>8</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-04-14T00:00:00-04:00</To>
-    <Days>24</Days>
+    <Number>7</Number>
+    <From>2018-10-31T00:00:00-04:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
+    <Days>84</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>7</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
+    <Days>147</Days>
   </Frequencies>
   <Frequencies>
     <Number>8</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-05-26T00:00:00-04:00</To>
-    <Days>42</Days>
+    <From>2018-10-17T00:00:00-04:00</From>
+    <To>2019-01-12T00:00:00-05:00</To>
+    <Days>87</Days>
   </Frequencies>
   <Frequencies>
     <Number>8</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>102</Days>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>8</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
-    <Days>21</Days>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>46</Days>
   </Frequencies>
   <Frequencies>
     <Number>8</Number>
-    <From>2018-09-26T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-05-05T00:00:00-04:00</To>
-    <Days>38</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-05-26T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>77</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>11</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>9</Number>
-    <From>2018-09-26T00:00:00-04:00</From>
-    <To>2018-10-27T00:00:00-04:00</To>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
     <Days>31</Days>
   </Frequencies>
   <Frequencies>
-    <Number>10</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
-    <Days>35</Days>
+    <Number>8</Number>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>46</Days>
   </Frequencies>
   <Frequencies>
-    <Number>10</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>42</Days>
+    <Number>8</Number>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
+    <Days>52</Days>
   </Frequencies>
   <Frequencies>
-    <Number>10</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>9</Number>
+    <From>2018-10-27T00:00:00-04:00</From>
+    <To>2018-12-12T00:00:00-05:00</To>
+    <Days>46</Days>
   </Frequencies>
   <Frequencies>
-    <Number>10</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-11-03T00:00:00-04:00</To>
-    <Days>108</Days>
+    <Number>9</Number>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2019-01-12T00:00:00-05:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>9</Number>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>9</Number>
+    <From>2019-02-13T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>9</Number>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>9</Number>
+    <From>2019-04-03T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>94</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>9</Number>
+    <From>2019-07-06T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
+    <Days>4</Days>
   </Frequencies>
   <Frequencies>
     <Number>10</Number>
@@ -427,100 +439,64 @@
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>11</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-04-04T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>11</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
-    <Days>42</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>11</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>11</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
+    <Number>10</Number>
+    <From>2018-11-24T00:00:00-05:00</From>
+    <To>2018-12-08T00:00:00-05:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>11</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>10</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2018-12-15T00:00:00-05:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>11</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
-    <Days>46</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>12</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-04-04T00:00:00-04:00</To>
+    <Number>10</Number>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
-    <Days>45</Days>
+    <Number>10</Number>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>49</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>12</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>12</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
+    <Number>10</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
     <Days>17</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
-    <Days>4</Days>
+    <Number>10</Number>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
+    <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
-    <Days>59</Days>
+    <Number>10</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
+    <Days>42</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-09-22T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
-    <Days>11</Days>
+    <Number>10</Number>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>56</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-10-03T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>11</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>49</Days>
   </Frequencies>
   <Frequencies>
-    <Number>12</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-11-07T00:00:00-05:00</To>
-    <Days>25</Days>
+    <Number>11</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
+    <Days>66</Days>
   </Frequencies>
   <Frequencies>
     <Number>12</Number>
@@ -535,88 +511,76 @@
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>13</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-04-25T00:00:00-04:00</To>
+    <Number>12</Number>
+    <From>2018-11-28T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
+    <Days>73</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>12</Number>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>13</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>66</Days>
+    <Number>12</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>13</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>67</Days>
+    <Number>12</Number>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>74</Days>
   </Frequencies>
   <Frequencies>
-    <Number>13</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
-    <Days>17</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>13</Number>
-    <From>2018-09-22T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>49</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
+    <Number>12</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>14</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
+    <Number>12</Number>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
     <Days>32</Days>
   </Frequencies>
   <Frequencies>
-    <Number>14</Number>
-    <From>2018-09-19T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
+    <Number>13</Number>
+    <From>2018-10-20T00:00:00-04:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
+    <Days>60</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>13</Number>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>13</Number>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>73</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>13</Number>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>13</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>14</Number>
-    <From>2018-09-22T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>14</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>7</Days>
+    <Number>13</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>84</Days>
   </Frequencies>
   <Frequencies>
     <Number>14</Number>
@@ -625,100 +589,88 @@
     <Days>32</Days>
   </Frequencies>
   <Frequencies>
-    <Number>15</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
-    <Days>84</Days>
+    <Number>14</Number>
+    <From>2018-11-21T00:00:00-05:00</From>
+    <To>2018-12-22T00:00:00-05:00</To>
+    <Days>31</Days>
   </Frequencies>
   <Frequencies>
-    <Number>15</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
-    <Days>11</Days>
+    <Number>14</Number>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2018-12-26T00:00:00-05:00</To>
+    <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>15</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
-    <Days>7</Days>
+    <Number>14</Number>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-01-05T00:00:00-05:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>15</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>15</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
-    <Days>67</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>15</Number>
-    <From>2018-08-29T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
-    <Days>38</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-03-28T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-04-21T00:00:00-04:00</To>
-    <Days>24</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-04-28T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>42</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
-    <Days>39</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>16</Number>
-    <From>2018-10-10T00:00:00-04:00</From>
-    <To>2018-10-31T00:00:00-04:00</To>
+    <Number>14</Number>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
     <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>14</Number>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>14</Number>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
+    <Days>73</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>14</Number>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>14</Number>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>14</Number>
+    <From>2019-06-22T00:00:00-04:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>15</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2019-01-12T00:00:00-05:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>15</Number>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>15</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>15</Number>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
+    <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>15</Number>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>39</Days>
   </Frequencies>
   <Frequencies>
     <Number>16</Number>
@@ -733,64 +685,58 @@
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
+    <Number>16</Number>
+    <From>2018-11-28T00:00:00-05:00</From>
+    <To>2018-12-15T00:00:00-05:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>16</Number>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
+    <Days>46</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>16</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>16</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>16</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
+    <Days>67</Days>
+  </Frequencies>
+  <Frequencies>
     <Number>17</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-04-28T00:00:00-04:00</To>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>91</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>17</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>17</Number>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
     <Number>17</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>17</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
-    <Days>24</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>17</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
-    <Days>60</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>17</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>17</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>18</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>74</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>18</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>18</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>18</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-11-03T00:00:00-04:00</To>
-    <Days>59</Days>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
+    <Days>42</Days>
   </Frequencies>
   <Frequencies>
     <Number>18</Number>
@@ -799,64 +745,64 @@
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-04-28T00:00:00-04:00</To>
-    <Days>3</Days>
+    <Number>18</Number>
+    <From>2018-11-17T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
+    <Days>53</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>11</Days>
+    <Number>18</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
+    <Days>45</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>18</Number>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
+    <Number>18</Number>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
     <Days>18</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>17</Days>
+    <Number>18</Number>
+    <From>2019-04-03T00:00:00-04:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>19</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>19</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
+    <Number>18</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
-    <Days>42</Days>
+    <Number>18</Number>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>18</Days>
   </Frequencies>
   <Frequencies>
-    <Number>19</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-11-24T00:00:00-05:00</To>
-    <Days>91</Days>
+    <Number>18</Number>
+    <From>2019-05-01T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>18</Number>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>18</Number>
+    <From>2019-06-12T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
     <Number>19</Number>
@@ -865,130 +811,88 @@
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>20</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-04-25T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>19</Number>
+    <From>2018-11-28T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
+    <Days>42</Days>
   </Frequencies>
   <Frequencies>
-    <Number>20</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
-    <Days>17</Days>
+    <Number>19</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>20</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
+    <Number>19</Number>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>19</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>42</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>19</Number>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>19</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
+    <Days>24</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>19</Number>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>19</Number>
+    <From>2019-06-08T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
     <Number>20</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
-    <Days>39</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
-    <Days>39</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-08-29T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>20</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-11-21T00:00:00-05:00</To>
-    <Days>39</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>21</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-05-05T00:00:00-04:00</To>
-    <Days>52</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>21</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
+    <From>2018-11-21T00:00:00-05:00</From>
+    <To>2018-12-05T00:00:00-05:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>21</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
-    <Days>14</Days>
+    <Number>20</Number>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2019-01-05T00:00:00-05:00</To>
+    <Days>31</Days>
   </Frequencies>
   <Frequencies>
-    <Number>21</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
-    <Days>4</Days>
+    <Number>20</Number>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
-    <Number>21</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
-    <Days>7</Days>
+    <Number>20</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
+    <Days>25</Days>
   </Frequencies>
   <Frequencies>
-    <Number>21</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
-    <Days>14</Days>
+    <Number>20</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>119</Days>
   </Frequencies>
   <Frequencies>
-    <Number>21</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
-    <Days>73</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>21</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
-    <Days>11</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>21</Number>
-    <From>2018-09-19T00:00:00-04:00</From>
-    <To>2018-11-21T00:00:00-05:00</To>
-    <Days>63</Days>
+    <Number>20</Number>
+    <From>2019-06-26T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
     <Number>21</Number>
@@ -997,256 +901,196 @@
     <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>22</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-03-31T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>21</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2018-12-26T00:00:00-05:00</To>
+    <Days>25</Days>
   </Frequencies>
   <Frequencies>
-    <Number>22</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-04-11T00:00:00-04:00</To>
-    <Days>11</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>38</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>22</Number>
-    <From>2018-10-06T00:00:00-04:00</From>
-    <To>2018-10-27T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-04-07T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-04-25T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
+    <Number>21</Number>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
     <Days>24</Days>
   </Frequencies>
   <Frequencies>
-    <Number>23</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
-    <Days>88</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-08-29T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-09-19T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>23</Number>
-    <From>2018-10-10T00:00:00-04:00</From>
-    <To>2018-11-07T00:00:00-05:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>24</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>67</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>24</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>24</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>24</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>24</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
+    <Number>21</Number>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
     <Days>63</Days>
   </Frequencies>
   <Frequencies>
-    <Number>24</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
+    <Number>21</Number>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2018-10-27T00:00:00-04:00</From>
+    <To>2019-01-05T00:00:00-05:00</To>
+    <Days>70</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-01-16T00:00:00-05:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
+    <Days>77</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-04-03T00:00:00-04:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-05-15T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
+    <Days>45</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>22</Number>
+    <From>2019-06-29T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2018-11-07T00:00:00-05:00</From>
+    <To>2019-01-16T00:00:00-05:00</To>
+    <Days>70</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>23</Number>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
     <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>24</Number>
-    <From>2018-09-29T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>11</Days>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
+    <Days>24</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>24</Number>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>24</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>24</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>56</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>24</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
+    <Days>24</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>24</Number>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
+    <Days>4</Days>
   </Frequencies>
   <Frequencies>
     <Number>25</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-04-28T00:00:00-04:00</To>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>25</Number>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
+    <Days>70</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>25</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
     <Days>24</Days>
   </Frequencies>
   <Frequencies>
     <Number>25</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>11</Days>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
+    <Days>25</Days>
   </Frequencies>
   <Frequencies>
     <Number>25</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>14</Days>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
+    <Days>24</Days>
   </Frequencies>
   <Frequencies>
     <Number>25</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
-    <Days>77</Days>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>56</Days>
   </Frequencies>
   <Frequencies>
     <Number>25</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
-    <Days>45</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>25</Number>
-    <From>2018-09-22T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
+    <From>2019-07-06T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
     <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-04-14T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-04-21T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
-    <Days>49</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
-    <Days>31</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>81</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-10-10T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>26</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-10-27T00:00:00-04:00</To>
-    <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>26</Number>
@@ -1267,52 +1111,46 @@
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>27</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-04-14T00:00:00-04:00</To>
-    <Days>31</Days>
+    <Number>26</Number>
+    <From>2018-11-17T00:00:00-05:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
+    <Days>32</Days>
   </Frequencies>
   <Frequencies>
-    <Number>27</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-04-18T00:00:00-04:00</To>
+    <Number>26</Number>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
+    <Days>38</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>26</Number>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>26</Number>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>26</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>27</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-05-23T00:00:00-04:00</To>
-    <Days>35</Days>
+    <Number>26</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
+    <Days>80</Days>
   </Frequencies>
   <Frequencies>
-    <Number>27</Number>
-    <From>2018-05-23T00:00:00-04:00</From>
-    <To>2018-06-16T00:00:00-04:00</To>
-    <Days>24</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>27</Number>
-    <From>2018-06-16T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>27</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>25</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>27</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>56</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>27</Number>
-    <From>2018-10-10T00:00:00-04:00</From>
-    <To>2018-10-24T00:00:00-04:00</To>
-    <Days>14</Days>
+    <Number>26</Number>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
+    <Days>11</Days>
   </Frequencies>
   <Frequencies>
     <Number>27</Number>
@@ -1333,106 +1171,160 @@
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-05-09T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>27</Number>
+    <From>2018-11-14T00:00:00-05:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>91</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-05-09T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
+    <Number>27</Number>
+    <From>2019-02-13T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>27</Number>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-03-06T00:00:00-05:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>27</Number>
+    <From>2019-03-06T00:00:00-05:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
+    <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>27</Number>
+    <From>2019-04-24T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
-    <Days>21</Days>
+    <Number>27</Number>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>27</Number>
+    <From>2019-05-01T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>3</Days>
+    <Number>27</Number>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>11</Days>
   </Frequencies>
   <Frequencies>
-    <Number>28</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
+    <Number>27</Number>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
+    <Days>38</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>27</Number>
+    <From>2019-06-29T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
     <Number>28</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2018-12-08T00:00:00-05:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>28</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2018-12-12T00:00:00-05:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>28</Number>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2019-01-05T00:00:00-05:00</To>
     <Days>24</Days>
   </Frequencies>
   <Frequencies>
     <Number>28</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
-    <Days>56</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>28</Number>
-    <From>2018-09-22T00:00:00-04:00</From>
-    <To>2018-10-10T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>29</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-05-02T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>29</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>29</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-10-24T00:00:00-04:00</To>
-    <Days>105</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>30</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-03-14T00:00:00-04:00</To>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>30</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-03-24T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>28</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>66</Days>
   </Frequencies>
   <Frequencies>
-    <Number>30</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-04-07T00:00:00-04:00</To>
-    <Days>14</Days>
+    <Number>28</Number>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
-    <Number>30</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-04-21T00:00:00-04:00</To>
-    <Days>14</Days>
+    <Number>28</Number>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>18</Days>
   </Frequencies>
   <Frequencies>
-    <Number>30</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>182</Days>
+    <Number>28</Number>
+    <From>2019-05-01T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>28</Number>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2018-10-24T00:00:00-04:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
+    <Days>94</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-03-20T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
+    <Days>59</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-05-18T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>29</Number>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>30</Number>
@@ -1465,220 +1357,262 @@
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>31</Number>
-    <From>2018-03-14T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
-    <Days>143</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>31</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>31</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
+    <Number>30</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
     <Days>32</Days>
   </Frequencies>
   <Frequencies>
-    <Number>31</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
-    <Days>17</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>31</Number>
-    <From>2018-09-29T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>31</Number>
-    <From>2018-10-03T00:00:00-04:00</From>
-    <To>2018-10-24T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-04-25T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-05-02T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
+    <Number>30</Number>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
     <Days>49</Days>
   </Frequencies>
   <Frequencies>
-    <Number>32</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
-    <Days>25</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>59</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>32</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-11-14T00:00:00-05:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>33</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>140</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>33</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>33</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
-    <Days>18</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>33</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
+    <Number>30</Number>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
     <Days>17</Days>
   </Frequencies>
   <Frequencies>
+    <Number>30</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-03-20T00:00:00-04:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>30</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>42</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>30</Number>
+    <From>2019-05-01T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
+    <Days>35</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2018-10-24T00:00:00-04:00</From>
+    <To>2018-12-15T00:00:00-05:00</To>
+    <Days>52</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>60</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-02-13T00:00:00-05:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
+    <Days>63</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-05-29T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>31</Number>
+    <From>2019-06-29T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2018-11-14T00:00:00-05:00</From>
+    <To>2018-12-12T00:00:00-05:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2018-12-22T00:00:00-05:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
+    <Days>60</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-03-16T00:00:00-04:00</To>
+    <Days>24</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-03-16T00:00:00-04:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-04-24T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-05-29T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>32</Number>
+    <From>2019-06-12T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
     <Number>33</Number>
-    <From>2018-09-29T00:00:00-04:00</From>
-    <To>2018-11-24T00:00:00-05:00</To>
-    <Days>56</Days>
+    <From>2018-11-24T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
+    <Days>46</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
+    <Days>73</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
+    <Days>42</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-05-08T00:00:00-04:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-05-08T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-05-18T00:00:00-04:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-06-26T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>33</Number>
+    <From>2019-07-03T00:00:00-04:00</From>
+    <To>2019-07-10T00:00:00-04:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>34</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
-    <Days>95</Days>
+    <From>2018-11-21T00:00:00-05:00</From>
+    <To>2018-12-19T00:00:00-05:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>34</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
+    <From>2018-12-19T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>34</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>34</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-07-21T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>34</Number>
-    <From>2018-07-21T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
-    <Days>77</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>34</Number>
-    <From>2018-10-06T00:00:00-04:00</From>
-    <To>2018-11-21T00:00:00-05:00</To>
-    <Days>46</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-04-18T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-04-28T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-04-28T00:00:00-04:00</From>
-    <To>2018-07-07T00:00:00-04:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-07-07T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>35</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
-    <Days>4</Days>
+    <Number>34</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
-    <Number>35</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>35</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
+    <Number>34</Number>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>35</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
-    <Days>11</Days>
+    <Number>34</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
+    <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>35</Number>
-    <From>2018-09-26T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
+    <Number>34</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-03-23T00:00:00-04:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>34</Number>
+    <From>2019-03-23T00:00:00-04:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>34</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>59</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>34</Number>
+    <From>2019-06-08T00:00:00-04:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>35</Number>
-    <From>2018-10-03T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>17</Days>
+    <Number>34</Number>
+    <From>2019-06-15T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>34</Number>
+    <From>2019-06-29T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>35</Number>
@@ -1687,124 +1621,154 @@
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
+    <Number>35</Number>
+    <From>2018-11-10T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
+    <Days>81</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>35</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>35</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>35</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>63</Days>
+  </Frequencies>
+  <Frequencies>
     <Number>36</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-04-07T00:00:00-04:00</To>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2019-01-05T00:00:00-05:00</To>
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
     <Number>36</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-04-21T00:00:00-04:00</To>
-    <Days>14</Days>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
+    <Days>21</Days>
   </Frequencies>
   <Frequencies>
     <Number>36</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
-    <Days>88</Days>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>36</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-07-25T00:00:00-04:00</To>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
+    <Days>42</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>36</Number>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>36</Number>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>36</Number>
-    <From>2018-07-25T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>36</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>36</Number>
-    <From>2018-08-29T00:00:00-04:00</From>
-    <To>2018-09-22T00:00:00-04:00</To>
-    <Days>24</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>37</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>56</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>37</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>37</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-08-25T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>37</Number>
-    <From>2018-08-25T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
-    <Days>39</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-05-05T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>17</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>38</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
     <Days>11</Days>
   </Frequencies>
   <Frequencies>
-    <Number>39</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-05-05T00:00:00-04:00</To>
+    <Number>36</Number>
+    <From>2019-05-15T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-01-05T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-02-13T00:00:00-05:00</From>
+    <To>2019-03-20T00:00:00-04:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>39</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>98</Days>
+    <Number>37</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>39</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-11-10T00:00:00-05:00</To>
-    <Days>91</Days>
+    <Number>37</Number>
+    <From>2019-04-03T00:00:00-04:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
+    <Days>67</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-06-19T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>37</Number>
+    <From>2019-07-06T00:00:00-04:00</From>
+    <To>2019-07-13T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>38</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2019-01-09T00:00:00-05:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>38</Number>
+    <From>2019-01-09T00:00:00-05:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
+    <Days>126</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>38</Number>
+    <From>2019-05-15T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>38</Number>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
+    <Days>24</Days>
   </Frequencies>
   <Frequencies>
     <Number>39</Number>
@@ -1813,64 +1777,100 @@
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>40</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-04-07T00:00:00-04:00</To>
+    <Number>39</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2018-12-15T00:00:00-05:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>40</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
+    <Number>39</Number>
+    <From>2018-12-15T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>40</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
-    <Days>81</Days>
+    <Number>39</Number>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
+    <Days>42</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>39</Number>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>39</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>39</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
+    <Days>38</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>39</Number>
+    <From>2019-05-18T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
+    <Days>18</Days>
   </Frequencies>
   <Frequencies>
     <Number>40</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
+    <From>2018-10-17T00:00:00-04:00</From>
+    <To>2018-12-22T00:00:00-05:00</To>
+    <Days>66</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>40</Number>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2018-12-26T00:00:00-05:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>40</Number>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
     <Days>45</Days>
   </Frequencies>
   <Frequencies>
     <Number>40</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
     <Number>40</Number>
-    <From>2018-10-06T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>11</Days>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
+    <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>41</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-03-17T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>40</Number>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-06-05T00:00:00-04:00</To>
+    <Days>60</Days>
   </Frequencies>
   <Frequencies>
-    <Number>41</Number>
-    <From>2018-03-17T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>74</Days>
+    <Number>40</Number>
+    <From>2019-06-05T00:00:00-04:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>41</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
-    <Days>94</Days>
+    <Number>40</Number>
+    <From>2019-06-08T00:00:00-04:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>18</Days>
   </Frequencies>
   <Frequencies>
-    <Number>41</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>46</Days>
+    <Number>40</Number>
+    <From>2019-06-26T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>41</Number>
@@ -1885,88 +1885,58 @@
     <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>42</Number>
-    <From>2018-04-07T00:00:00-04:00</From>
-    <To>2018-05-02T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>41</Number>
+    <From>2018-11-03T00:00:00-04:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>102</Days>
   </Frequencies>
   <Frequencies>
     <Number>42</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-05-12T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>42</Number>
-    <From>2018-05-12T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>42</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-05-26T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>42</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>42</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>45</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>42</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
     <Days>49</Days>
   </Frequencies>
   <Frequencies>
     <Number>42</Number>
-    <From>2018-09-29T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>43</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-04-25T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>43</Number>
-    <From>2018-04-25T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
     <Days>42</Days>
   </Frequencies>
   <Frequencies>
-    <Number>43</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
-    <Days>28</Days>
+    <Number>42</Number>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>43</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
+    <Number>42</Number>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>42</Number>
+    <From>2019-05-15T00:00:00-04:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>24</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>42</Number>
+    <From>2019-06-08T00:00:00-04:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>43</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>38</Days>
+    <Number>42</Number>
+    <From>2019-06-15T00:00:00-04:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>11</Days>
   </Frequencies>
   <Frequencies>
-    <Number>43</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-10-24T00:00:00-04:00</To>
-    <Days>67</Days>
+    <Number>42</Number>
+    <From>2019-06-26T00:00:00-04:00</From>
+    <To>2019-07-03T00:00:00-04:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>43</Number>
@@ -1981,40 +1951,64 @@
     <Days>11</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
-    <Days>38</Days>
+    <Number>43</Number>
+    <From>2018-11-14T00:00:00-05:00</From>
+    <To>2018-12-08T00:00:00-05:00</To>
+    <Days>24</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
+    <Number>43</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2018-12-12T00:00:00-05:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
-    <Days>35</Days>
+    <Number>43</Number>
+    <From>2018-12-12T00:00:00-05:00</From>
+    <To>2018-12-26T00:00:00-05:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
-    <Days>10</Days>
+    <Number>43</Number>
+    <From>2018-12-26T00:00:00-05:00</From>
+    <To>2019-01-16T00:00:00-05:00</To>
+    <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-08-29T00:00:00-04:00</To>
-    <Days>32</Days>
+    <Number>43</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
-    <Number>44</Number>
-    <From>2018-08-29T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>49</Days>
+    <Number>43</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>43</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-05-01T00:00:00-04:00</To>
+    <Days>74</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>43</Number>
+    <From>2019-05-01T00:00:00-04:00</From>
+    <To>2019-05-04T00:00:00-04:00</To>
+    <Days>3</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>43</Number>
+    <From>2019-05-04T00:00:00-04:00</From>
+    <To>2019-05-15T00:00:00-04:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>43</Number>
+    <From>2019-05-15T00:00:00-04:00</From>
+    <To>2019-06-12T00:00:00-04:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>44</Number>
@@ -2035,52 +2029,34 @@
     <Days>24</Days>
   </Frequencies>
   <Frequencies>
-    <Number>45</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-04-18T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>44</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2018-12-08T00:00:00-05:00</To>
+    <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>45</Number>
-    <From>2018-04-18T00:00:00-04:00</From>
-    <To>2018-04-21T00:00:00-04:00</To>
-    <Days>3</Days>
+    <Number>44</Number>
+    <From>2018-12-08T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
+    <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>45</Number>
-    <From>2018-04-21T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
-    <Days>25</Days>
+    <Number>44</Number>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
+    <Days>42</Days>
   </Frequencies>
   <Frequencies>
-    <Number>45</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-08-08T00:00:00-04:00</To>
-    <Days>84</Days>
+    <Number>44</Number>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-02-13T00:00:00-05:00</To>
+    <Days>4</Days>
   </Frequencies>
   <Frequencies>
-    <Number>45</Number>
-    <From>2018-08-08T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>45</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
-    <Days>17</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>45</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-10-03T00:00:00-04:00</To>
-    <Days>25</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>45</Number>
-    <From>2018-10-03T00:00:00-04:00</From>
-    <To>2018-10-31T00:00:00-04:00</To>
-    <Days>28</Days>
+    <Number>44</Number>
+    <From>2019-02-13T00:00:00-05:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
+    <Days>49</Days>
   </Frequencies>
   <Frequencies>
     <Number>45</Number>
@@ -2107,58 +2083,46 @@
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>46</Number>
-    <From>2018-03-31T00:00:00-04:00</From>
-    <To>2018-05-26T00:00:00-04:00</To>
+    <Number>45</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2019-01-23T00:00:00-05:00</To>
+    <Days>53</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>45</Number>
+    <From>2019-01-23T00:00:00-05:00</From>
+    <To>2019-03-20T00:00:00-04:00</To>
     <Days>56</Days>
   </Frequencies>
   <Frequencies>
-    <Number>46</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>46</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-06-20T00:00:00-04:00</To>
-    <Days>21</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>46</Number>
-    <From>2018-06-20T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
+    <Number>45</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
     <Days>28</Days>
   </Frequencies>
   <Frequencies>
-    <Number>46</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>46</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-09-05T00:00:00-04:00</To>
-    <Days>35</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>46</Number>
-    <From>2018-09-05T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
+    <Number>45</Number>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-04-24T00:00:00-04:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>46</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
-    <Days>3</Days>
+    <Number>45</Number>
+    <From>2019-04-24T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
+    <Days>24</Days>
   </Frequencies>
   <Frequencies>
-    <Number>46</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-10-20T00:00:00-04:00</To>
-    <Days>35</Days>
+    <Number>45</Number>
+    <From>2019-05-18T00:00:00-04:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>45</Number>
+    <From>2019-05-29T00:00:00-04:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
+    <Days>17</Days>
   </Frequencies>
   <Frequencies>
     <Number>46</Number>
@@ -2173,82 +2137,58 @@
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>47</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-05-05T00:00:00-04:00</To>
-    <Days>56</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>47</Number>
-    <From>2018-05-05T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
+    <Number>46</Number>
+    <From>2018-12-01T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
     <Days>32</Days>
   </Frequencies>
   <Frequencies>
-    <Number>47</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>47</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>47</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-06-30T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>47</Number>
-    <From>2018-06-30T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>53</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>47</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
+    <Number>46</Number>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-01-12T00:00:00-05:00</To>
     <Days>10</Days>
   </Frequencies>
   <Frequencies>
-    <Number>47</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-10-06T00:00:00-04:00</To>
+    <Number>46</Number>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-01-19T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>46</Number>
+    <From>2019-01-19T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>46</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-04-03T00:00:00-04:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
-    <Number>48</Number>
-    <From>2018-04-04T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>56</Days>
+    <Number>46</Number>
+    <From>2019-04-03T00:00:00-04:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
+    <Days>77</Days>
   </Frequencies>
   <Frequencies>
-    <Number>48</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-06-06T00:00:00-04:00</To>
+    <Number>47</Number>
+    <From>2019-01-16T00:00:00-05:00</From>
+    <To>2019-02-02T00:00:00-05:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>47</Number>
+    <From>2019-02-02T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>48</Number>
-    <From>2018-06-06T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>48</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
-    <Days>10</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>48</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-10-17T00:00:00-04:00</To>
-    <Days>95</Days>
+    <Number>47</Number>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-05-29T00:00:00-04:00</To>
+    <Days>109</Days>
   </Frequencies>
   <Frequencies>
     <Number>48</Number>
@@ -2263,130 +2203,124 @@
     <Days>21</Days>
   </Frequencies>
   <Frequencies>
-    <Number>49</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-03-24T00:00:00-04:00</To>
-    <Days>17</Days>
+    <Number>48</Number>
+    <From>2018-11-28T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
+    <Days>31</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-01-02T00:00:00-05:00</To>
+    <Days>4</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-01-02T00:00:00-05:00</From>
+    <To>2019-01-12T00:00:00-05:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-01-12T00:00:00-05:00</From>
+    <To>2019-03-09T00:00:00-05:00</To>
+    <Days>56</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-03-09T00:00:00-05:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>32</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-05-18T00:00:00-04:00</To>
+    <Days>38</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-05-18T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>48</Number>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-06-26T00:00:00-04:00</To>
+    <Days>32</Days>
   </Frequencies>
   <Frequencies>
     <Number>49</Number>
-    <From>2018-03-24T00:00:00-04:00</From>
-    <To>2018-05-02T00:00:00-04:00</To>
-    <Days>39</Days>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2019-02-09T00:00:00-05:00</To>
+    <Days>49</Days>
   </Frequencies>
   <Frequencies>
     <Number>49</Number>
-    <From>2018-05-02T00:00:00-04:00</From>
-    <To>2018-05-16T00:00:00-04:00</To>
+    <From>2019-02-09T00:00:00-05:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
+    <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>49</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-04-13T00:00:00-04:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>49</Number>
-    <From>2018-05-16T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
-    <Days>56</Days>
+    <From>2019-04-13T00:00:00-04:00</From>
+    <To>2019-05-11T00:00:00-04:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
     <Number>49</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
-    <Days>3</Days>
+    <From>2019-05-11T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>11</Days>
   </Frequencies>
   <Frequencies>
     <Number>49</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
-    <Days>77</Days>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-06-22T00:00:00-04:00</To>
+    <Days>31</Days>
   </Frequencies>
   <Frequencies>
     <Number>50</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-04-14T00:00:00-04:00</To>
+    <From>2018-11-21T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
     <Days>38</Days>
   </Frequencies>
   <Frequencies>
     <Number>50</Number>
-    <From>2018-04-14T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>46</Days>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-03-02T00:00:00-05:00</To>
+    <Days>63</Days>
   </Frequencies>
   <Frequencies>
     <Number>50</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-06-09T00:00:00-04:00</To>
+    <From>2019-03-02T00:00:00-05:00</From>
+    <To>2019-03-27T00:00:00-04:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>50</Number>
+    <From>2019-03-27T00:00:00-04:00</From>
+    <To>2019-04-06T00:00:00-04:00</To>
     <Days>10</Days>
   </Frequencies>
   <Frequencies>
     <Number>50</Number>
-    <From>2018-06-09T00:00:00-04:00</From>
-    <To>2018-06-13T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>50</Number>
-    <From>2018-06-13T00:00:00-04:00</From>
-    <To>2018-07-28T00:00:00-04:00</To>
-    <Days>45</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>50</Number>
-    <From>2018-07-28T00:00:00-04:00</From>
-    <To>2018-09-12T00:00:00-04:00</To>
-    <Days>46</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>50</Number>
-    <From>2018-09-12T00:00:00-04:00</From>
-    <To>2018-11-21T00:00:00-05:00</To>
-    <Days>70</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-03-07T00:00:00-05:00</From>
-    <To>2018-03-10T00:00:00-05:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-03-10T00:00:00-05:00</From>
-    <To>2018-04-11T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-04-11T00:00:00-04:00</From>
-    <To>2018-05-19T00:00:00-04:00</To>
-    <Days>38</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-05-19T00:00:00-04:00</From>
-    <To>2018-08-11T00:00:00-04:00</To>
-    <Days>84</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-08-11T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>7</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-09-01T00:00:00-04:00</To>
-    <Days>14</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-09-01T00:00:00-04:00</From>
-    <To>2018-09-29T00:00:00-04:00</To>
-    <Days>28</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>51</Number>
-    <From>2018-09-29T00:00:00-04:00</From>
-    <To>2018-11-17T00:00:00-05:00</To>
+    <From>2019-04-06T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
     <Days>49</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>50</Number>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-06-08T00:00:00-04:00</To>
+    <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>51</Number>
@@ -2395,123 +2329,189 @@
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>52</Number>
-    <From>2018-03-21T00:00:00-04:00</From>
-    <To>2018-03-28T00:00:00-04:00</To>
+    <Number>51</Number>
+    <From>2018-11-24T00:00:00-05:00</From>
+    <To>2018-12-22T00:00:00-05:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2018-12-29T00:00:00-05:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
-    <Number>52</Number>
-    <From>2018-03-28T00:00:00-04:00</From>
-    <To>2018-05-30T00:00:00-04:00</To>
-    <Days>63</Days>
+    <Number>51</Number>
+    <From>2018-12-29T00:00:00-05:00</From>
+    <To>2019-01-26T00:00:00-05:00</To>
+    <Days>28</Days>
   </Frequencies>
   <Frequencies>
-    <Number>52</Number>
-    <From>2018-05-30T00:00:00-04:00</From>
-    <To>2018-06-02T00:00:00-04:00</To>
+    <Number>51</Number>
+    <From>2019-01-26T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-02-23T00:00:00-05:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-02-23T00:00:00-05:00</From>
+    <To>2019-03-13T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-03-13T00:00:00-04:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
+    <Days>17</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-04-27T00:00:00-04:00</To>
+    <Days>28</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-04-27T00:00:00-04:00</From>
+    <To>2019-05-22T00:00:00-04:00</To>
+    <Days>25</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-05-22T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
-    <Number>52</Number>
-    <From>2018-06-02T00:00:00-04:00</From>
-    <To>2018-06-23T00:00:00-04:00</To>
-    <Days>21</Days>
+    <Number>51</Number>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
+    <Days>18</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>51</Number>
+    <From>2019-06-19T00:00:00-04:00</From>
+    <To>2019-07-06T00:00:00-04:00</To>
+    <Days>17</Days>
   </Frequencies>
   <Frequencies>
     <Number>52</Number>
-    <From>2018-06-23T00:00:00-04:00</From>
-    <To>2018-06-27T00:00:00-04:00</To>
+    <From>2018-11-24T00:00:00-05:00</From>
+    <To>2018-12-05T00:00:00-05:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>52</Number>
+    <From>2018-12-05T00:00:00-05:00</From>
+    <To>2019-02-16T00:00:00-05:00</To>
+    <Days>73</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>52</Number>
+    <From>2019-02-16T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
     <Days>4</Days>
   </Frequencies>
   <Frequencies>
     <Number>52</Number>
-    <From>2018-06-27T00:00:00-04:00</From>
-    <To>2018-07-04T00:00:00-04:00</To>
-    <Days>7</Days>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
+    <Days>56</Days>
   </Frequencies>
   <Frequencies>
     <Number>52</Number>
-    <From>2018-07-04T00:00:00-04:00</From>
-    <To>2018-07-11T00:00:00-04:00</To>
-    <Days>7</Days>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-06-15T00:00:00-04:00</To>
+    <Days>59</Days>
   </Frequencies>
   <Frequencies>
     <Number>52</Number>
-    <From>2018-07-11T00:00:00-04:00</From>
-    <To>2018-07-14T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>52</Number>
-    <From>2018-07-14T00:00:00-04:00</From>
-    <To>2018-08-15T00:00:00-04:00</To>
-    <Days>32</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>52</Number>
-    <From>2018-08-15T00:00:00-04:00</From>
-    <To>2018-08-18T00:00:00-04:00</To>
-    <Days>3</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>52</Number>
-    <From>2018-08-18T00:00:00-04:00</From>
-    <To>2018-08-22T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>52</Number>
-    <From>2018-08-22T00:00:00-04:00</From>
-    <To>2018-10-13T00:00:00-04:00</To>
-    <Days>52</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>52</Number>
-    <From>2018-10-13T00:00:00-04:00</From>
-    <To>2018-11-24T00:00:00-05:00</To>
-    <Days>42</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>53</Number>
-    <From>2018-05-26T00:00:00-04:00</From>
-    <To>2018-07-18T00:00:00-04:00</To>
-    <Days>53</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>53</Number>
-    <From>2018-07-18T00:00:00-04:00</From>
-    <To>2018-08-01T00:00:00-04:00</To>
+    <From>2019-06-15T00:00:00-04:00</From>
+    <To>2019-06-29T00:00:00-04:00</To>
     <Days>14</Days>
   </Frequencies>
   <Frequencies>
     <Number>53</Number>
-    <From>2018-08-01T00:00:00-04:00</From>
-    <To>2018-08-04T00:00:00-04:00</To>
+    <From>2018-12-22T00:00:00-05:00</From>
+    <To>2019-01-30T00:00:00-05:00</To>
+    <Days>39</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-01-30T00:00:00-05:00</From>
+    <To>2019-02-06T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-02-06T00:00:00-05:00</From>
+    <To>2019-02-20T00:00:00-05:00</To>
+    <Days>14</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-02-20T00:00:00-05:00</From>
+    <To>2019-02-27T00:00:00-05:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-02-27T00:00:00-05:00</From>
+    <To>2019-03-20T00:00:00-04:00</To>
+    <Days>21</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-03-20T00:00:00-04:00</From>
+    <To>2019-03-30T00:00:00-04:00</To>
+    <Days>10</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-03-30T00:00:00-04:00</From>
+    <To>2019-04-10T00:00:00-04:00</To>
+    <Days>11</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-04-10T00:00:00-04:00</From>
+    <To>2019-04-17T00:00:00-04:00</To>
+    <Days>7</Days>
+  </Frequencies>
+  <Frequencies>
+    <Number>53</Number>
+    <From>2019-04-17T00:00:00-04:00</From>
+    <To>2019-04-20T00:00:00-04:00</To>
     <Days>3</Days>
   </Frequencies>
   <Frequencies>
     <Number>53</Number>
-    <From>2018-08-04T00:00:00-04:00</From>
-    <To>2018-09-08T00:00:00-04:00</To>
+    <From>2019-04-20T00:00:00-04:00</From>
+    <To>2019-05-25T00:00:00-04:00</To>
     <Days>35</Days>
   </Frequencies>
   <Frequencies>
     <Number>53</Number>
-    <From>2018-09-08T00:00:00-04:00</From>
-    <To>2018-09-15T00:00:00-04:00</To>
+    <From>2019-05-25T00:00:00-04:00</From>
+    <To>2019-06-01T00:00:00-04:00</To>
     <Days>7</Days>
   </Frequencies>
   <Frequencies>
     <Number>53</Number>
-    <From>2018-09-15T00:00:00-04:00</From>
-    <To>2018-09-19T00:00:00-04:00</To>
-    <Days>4</Days>
-  </Frequencies>
-  <Frequencies>
-    <Number>53</Number>
-    <From>2018-09-19T00:00:00-04:00</From>
-    <To>2018-09-26T00:00:00-04:00</To>
-    <Days>7</Days>
+    <From>2019-06-01T00:00:00-04:00</From>
+    <To>2019-06-19T00:00:00-04:00</To>
+    <Days>18</Days>
   </Frequencies>
 </NewDataSet>

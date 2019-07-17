@@ -7,12 +7,11 @@ using System.Text;
 using System.Web;
 using MAI.Lottery.FloridaLotto;
 namespace MAI.Lottery.FloridaLotto
-    // test
 {
-    // todo: restructure this project to use more object oriented thechnique like interface, parent class and child clas implementhing hineritance.
+    // todo: restructure this project to use more object oriented technique like interface, parent class and child clas implementhing hineritance.
 
     /// <summary>
-    /// Class for extract Florida lotto results ,analize results and produce Trend analysis.
+    /// Class for extract Florida lotto results ,analyze results and produce Trend analysis.
     /// </summary>
     public class FloridaLotto
     {
